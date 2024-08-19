@@ -2,7 +2,6 @@ music app Utilized Firebase Database and Storage
 to store and manage app data efficiently.
 
 
-
 ![photo_5915785622075852447_y](https://github.com/user-attachments/assets/9cb9392a-365b-4ffc-94d4-6afea2bcf5a9)
 ![photo_5915785622075852448_y](https://github.com/user-attachments/assets/c888a98d-a723-42f0-91e3-fe8b9329eca2)
 ![photo_5915785622075852449_y](https://github.com/user-attachments/assets/4751ce67-f4c8-4d6b-8c0f-be6721408d07)
